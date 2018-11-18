@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">caculator113</string>
+    <string name="complexcompute">复杂计算</string>
+    <string name="simple">简单计算</string>
+</resources>
